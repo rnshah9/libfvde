@@ -1,0 +1,7 @@
+project: rnshah9/libfvde
+target: libfvde
+tests: 
+  - file://tests/data
+
+cmds:
+  - cmd: /usr/local/bin/fvdeinfo @@
