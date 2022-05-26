@@ -1,5 +1,5 @@
 project: rnshah9/libfvde
-target: libfvde
+target: fvdeinfo
 tests: 
   - file://tests/data
 
